@@ -12,3 +12,10 @@ A lightweight and cross-platform Python utility to quickly create a virtual envi
 - 🛠 Simple to integrate into your project setup
 
 ---
+
+### 🔧 Run from any project directory
+
+Use this command to run Environaut from another project folder:
+
+```bash
+PYTHONPATH=<path>/environaut.py python3 <path>/environaut.py/environaut/main.py
